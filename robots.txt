@@ -1,5 +1,0 @@
-# robotstxt.org/
-
-User-agent: *
-
-Sitemap: https://darwinisrin.github.io/sitemap.xml
